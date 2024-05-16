@@ -1,1 +1,1 @@
-print("Hello This is test for jenkins cloud integration")
+print("Hello This is test for jenkins aws cloud integration")
